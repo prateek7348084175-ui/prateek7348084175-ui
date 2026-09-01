@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./prateek-banner.png" width="100%" alt="Prateek Gupta">
+  <img src="./ChatGPT%20Image%20Sep%201,%202026,%2011_45_47%20AM.png" width="100%" alt="Prateek Gupta">
 </div>
 <div align="center">
 
